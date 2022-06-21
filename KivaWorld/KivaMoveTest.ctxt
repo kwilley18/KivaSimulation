@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KivaMoveTest
+comment1.params=
+comment1.target=void\ testForward()
+comment2.params=
+comment2.target=void\ testLeft()
+comment3.params=
+comment3.target=void\ testRight()
+comment4.params=
+comment4.target=void\ testTake()
+comment5.params=
+comment5.target=void\ testDrop()
+comment6.params=a\ b
+comment6.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+comment7.params=test\ actual\ expectLocation\ expectingDirection\ expectCarry\ expectDropped
+comment7.target=void\ verifyKivaState(java.lang.String,\ Kiva,\ edu.duke.Point,\ FacingDirection,\ boolean,\ boolean)
+numComments=8
